@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Price Neutral</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#767F92">
+            <!-- Horizontal line representing stable price -->
+            <path d="M3,12 L21,12" stroke="#767F92" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+            
+            <!-- Small horizontal tick marks to represent price stable points -->
+            <path d="M6,9 L6,15" stroke="#767F92" stroke-width="1.5" stroke-linecap="round"/>
+            <path d="M12,9 L12,15" stroke="#767F92" stroke-width="1.5" stroke-linecap="round"/>
+            <path d="M18,9 L18,15" stroke="#767F92" stroke-width="1.5" stroke-linecap="round"/>
+        </g>
+    </g>
+</svg>

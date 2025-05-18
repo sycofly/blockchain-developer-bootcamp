@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.436799df.css",
+    "main.js": "/static/js/main.8b5984f8.js",
+    "static/js/453.e3a847a4.chunk.js": "/static/js/453.e3a847a4.chunk.js",
+    "static/media/dapp.svg": "/static/media/dapp.6d32f05e0f767cb5648e2bdc8aafdd06.svg",
+    "static/media/logo.png": "/static/media/logo.4764d5b602aed704dc6b.png",
+    "static/media/metamask.svg": "/static/media/metamask.e4b1d92541f448dae3455e7ba1b4a853.svg",
+    "static/media/eth.svg": "/static/media/eth.37fb3a237719070195713f345f83efe2.svg",
+    "static/media/price-neutral.svg": "/static/media/price-neutral.97ae354e82c308fcfe1a25f5a7222f57.svg",
+    "static/media/sort.svg": "/static/media/sort.2c2de130343812cb65c091a3d94a7ddd.svg",
+    "index.html": "/index.html",
+    "static/media/right-arrow-blue.svg": "/static/media/right-arrow-blue.ca2b94489a8c12d7dcb1.svg",
+    "static/media/right-arrow-white.svg": "/static/media/right-arrow-white.19d9142149236f77e725.svg",
+    "static/media/price-down.svg": "/static/media/price-down.b4a84854af91b6e61a596aad3cfde55a.svg",
+    "static/media/price-up.svg": "/static/media/price-up.cadd30c9ba97df533df4639e89ef7b4c.svg",
+    "main.436799df.css.map": "/static/css/main.436799df.css.map",
+    "main.8b5984f8.js.map": "/static/js/main.8b5984f8.js.map",
+    "453.e3a847a4.chunk.js.map": "/static/js/453.e3a847a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.436799df.css",
+    "static/js/main.8b5984f8.js"
+  ]
+}

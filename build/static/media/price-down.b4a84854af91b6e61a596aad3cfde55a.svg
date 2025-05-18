@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Price Down</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#F45353">
+            <!-- Price going down line chart -->
+            <path d="M3,7 L7,11 L11,9 L21,19" stroke="#F45353" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+            <!-- Arrow head -->
+            <polygon points="16,19 21,19 21,14"></polygon>
+        </g>
+    </g>
+</svg>
