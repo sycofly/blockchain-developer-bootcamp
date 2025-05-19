@@ -1,4 +1,19 @@
 {
+  "137": {
+    "exchange": {
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    "DApp": {
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    "mETH": {
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    "mDAI": {
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    "explorerURL": "https://polygonscan.com/"
+  },
   "31337": {
     "exchange": {
       "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
@@ -14,6 +29,21 @@
     },
     "explorerURL": "#"
   },
+  "80002": {
+    "exchange": {
+      "address": "0xcd03047B3bDE78d989602aCa316F9C90Eb59A03E"
+    },
+    "DApp": {
+      "address": "0xB4D7D61f1972AcE7A6B2AfFa68009dd8472fd03F"
+    },
+    "mETH": {
+      "address": "0xe21ccb730D81dB9753878330430DBD5F82299D16"
+    },
+    "mDAI": {
+      "address": "0x57865ca1E7EC443b7A55d533d58775729f910320"
+    },
+    "explorerURL": " https://amoy.polygonscan.com/"
+  },
   "11155111": {
     "exchange": {
       "address": "0xcA0F0Fd78184bCd53ffDC38784398Ee91EB068D2"
@@ -28,35 +58,5 @@
       "address": "0x5Dc866C8E28B79962d66B0D8FDda2237c4f6e163"
     },
     "explorerURL": "https://sepolia.etherscan.io/"
-  },
-  "80001": {
-    "exchange": {
-      "address": "0x0000000000000000000000000000000000000000"
-    },
-    "DApp": {
-      "address": "0x0000000000000000000000000000000000000000"
-    },
-    "mETH": {
-      "address": "0x0000000000000000000000000000000000000000"
-    },
-    "mDAI": {
-      "address": "0x0000000000000000000000000000000000000000"
-    },
-    "explorerURL": "https://mumbai.polygonscan.com/"
-  },
-  "137": {
-    "exchange": {
-      "address": "0x0000000000000000000000000000000000000000"
-    },
-    "DApp": {
-      "address": "0x0000000000000000000000000000000000000000"
-    },
-    "mETH": {
-      "address": "0x0000000000000000000000000000000000000000"
-    },
-    "mDAI": {
-      "address": "0x0000000000000000000000000000000000000000"
-    },
-    "explorerURL": "https://polygonscan.com/"
   }
 }

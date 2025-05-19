@@ -11,8 +11,8 @@ const getDefaultAddressForNetwork = (chainId) => {
   switch(chainIdStr) {
     case '11155111': // Sepolia
       return process.env.REACT_APP_SEPOLIA_DEFAULT_ACCOUNT;
-    case '80001': // Polygon Mumbai testnet
-      return process.env.REACT_APP_POLYGON_MUMBAI_DEFAULT_ACCOUNT;
+    case '80002': // Polygon Mumbai testnet
+      return process.env.REACT_APP_POLYGON_AMOY_DEFAULT_ACCOUNT;
     case '137': // Polygon mainnet
       return process.env.REACT_APP_POLYGON_MAINNET_DEFAULT_ACCOUNT;
     case '31337': // Hardhat local network
