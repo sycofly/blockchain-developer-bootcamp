@@ -82,9 +82,9 @@ const Navbar = () => {
       } else if (e.target.value === "0xaa36a7") { // Sepolia
         networkId = 11155111;
         envVarName = "REACT_APP_SEPOLIA_DEFAULT_ACCOUNT";
-      } else if (e.target.value === "0x13881") { // Polygon Mumbai
-        networkId = 80001;
-        envVarName = "REACT_APP_POLYGON_MUMBAI_DEFAULT_ACCOUNT";
+      } else if (e.target.value === "0x13882") { // Polygon Amoy
+        networkId = 80002;
+        envVarName = "REACT_APP_ALCHEMY_API_KEY_AMOY";
       } else if (e.target.value === "0x89") { // Polygon Mainnet
         networkId = 137;
         envVarName = "REACT_APP_POLYGON_MAINNET_DEFAULT_ACCOUNT";
@@ -132,7 +132,7 @@ const Navbar = () => {
             <option value="0" disabled>Select Network</option>
             <option value="0x7A69">Localhost</option>
             <option value="0xaa36a7">Sepolia</option>
-            <option value="0x13881">Polygon Mumbai</option>
+            <option value="0x13882">Polygon Amoy</option>
             <option value="0x89">Polygon Mainnet</option>
           </select>
         )}
